@@ -1,0 +1,4 @@
+# Inteligencia Artificial para predicción de riesgo cardiovascular. Estrategia innovadora para detección temprana y monitoreo de riesgo cardiovascular (RICA)
+## Eirahealthcare Argentina + Instituto de Investigación en Ciencias de la Salud (INICSA) + UNC/CONICET
+El objetivo de este proyecto es promover avances en la prevención de enfermedades cardiovasculares, ayudando en la detección temprana y el monitoreo de factores de riesgo. Para esto se desarrollará una herramienta que incluya Inteligencia Artificial capaz de predecir eventos cardiovasculares utilizando variables clínicas específicas de uso rutinario. El software analizará las imágenes obtenidas utilizando una técnica de ecografía carotídea convencional y ayudará a calcular correctamente el área de placa total, la carga de aterosclerosis y el riesgo cardiovascular asociado.
+###### Link al vídeo de presentación del proyecto: https://youtu.be/JnRS1qeDEGw
